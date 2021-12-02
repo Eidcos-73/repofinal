@@ -1,0 +1,50 @@
+h1{
+    text-align:center;
+  }
+  
+  h1 a {
+    color: rgb(50,50,50);
+    text-decoration: none;
+   }
+
+   .form{
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+   }
+
+   .btn {
+    display: block;
+    width: 100%;
+    margin: auto;
+    background-color: #fafafa;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    /* IMPORTANTE */
+    text-align: center;
+    
+  }
+  
+  .padre {
+    /* IMPORTANTE */
+    text-align: center;
+  }
+  
+  .btn1{
+background-color: #fafafa;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  /* IMPORTANTE */
+  margin: 10px;
+  align-items: center;
+  cursor:pointer;
+ 
+  }
+
